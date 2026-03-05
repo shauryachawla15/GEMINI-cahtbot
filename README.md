@@ -238,9 +238,13 @@ Through this project I learned:
 
 ---
 
-# 📜 License
+# 📜 Output
 
-This project is open-source and available under the **MIT License**.
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/90407603-209a-40f9-91d4-9e036d847a2b" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/e2a885e6-d504-45a7-8816-9e87c7c31610" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/b3e6673e-9b71-4867-bcbd-82b8ad847deb" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/39cd2da0-ed1f-4482-a3e2-e7de139de777" />
+
 
 ---
 
