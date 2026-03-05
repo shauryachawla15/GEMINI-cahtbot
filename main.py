@@ -17,7 +17,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
 # 🔐 IMPORTANT: Move this to .env later
-client = genai.Client(api_key="AIzaSyAHaDX14kmIcctWZ-MeLaWR5MR7XuLldNo")
+client = genai.Client(api_key="YOUR_API_KEY _HERE")
 
 
 # ---------------------------
@@ -120,5 +120,6 @@ Question:
     )
 
     ai_reply = response.text
+
 
     return JSONResponse(content={"message": ai_reply})
