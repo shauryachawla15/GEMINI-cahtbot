@@ -128,20 +128,6 @@ git clone https://github.com/shauryachawla15/gGEMINI-chatbot.git
 
 cd gemini-chatbot
 
-# 🔑 Environment Setup
-
-Add your **Gemini API key** from Google AI Studio.
-
-Example:
-
-```python
-GOOGLE_API_KEY = "your_api_key_here"
-```
-
-You can get an API key from:  
-https://ai.google.dev/
-
----
 
 # ▶️ Run the Project
 
