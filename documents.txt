@@ -1,0 +1,28 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+Python is a high-level programming language.
+
+FastAPI is a modern web framework for building APIs with Python.
+
+Gemini is a large language model developed by Google.
+
+U.S. citizens traveling to India require a valid passport with at least six months validity and two blank pages, an Indian visa or OCI card, and optionally an e-arrival form. Most travelers can use an e-Visa for tourism or business, applied for online at the Indian Visa Online website. A valid, pre-approved visa is required to board your flight. 
+U.S. Department of State (.gov)
+U.S. Department of State (.gov)
+ +3
+Essential Travel Documents Checklist
+Passport: Must be valid for at least 6 months beyond the date of entry and have at least 2 blank pages.
+Visa/OCI Card:
+e-Visa: For short-term, tourist, or business visits (up to 60 or 180 days, depending on type). Apply directly via the Indian government website.
+Regular Visa: Required for longer stays or specific purposes (work, student), processed through VFS Global.
+OCI Card: For Overseas Citizens of India, this replaces the visa requirement.
+E-Arrival Form (Optional): Starting Oct 2025, travelers can submit an electronic arrival (disembarkation) form online up to 72 hours before travel, though paper forms are still accepted until March 2026.
+Vaccination Certificate: Yellow Fever vaccination is required only if arriving from an infected area.
+Proof of Travel: Return/onward ticket is typically required. 
+U.S. Department of State (.gov)
+U.S. Department of State (.gov)
+ +6
+Important Notes
+Arrival Form: Foreigners and OCI cardholders must submit an arrival form (physical or digital) before proceeding to immigration.
+Prohibited Items: Carrying a satellite phone is illegal and can lead to arrest.
+Digital Documents: DigiLocker is accepted in Indian airports for storing digital copies
